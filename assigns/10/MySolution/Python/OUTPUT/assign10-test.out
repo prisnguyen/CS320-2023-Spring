@@ -1,0 +1,9 @@
+(base) 2017mba@Priscillas-MacBook-Pro Python % python3 assign10_01_test.py
+image_seam_carving_color: i0 = 0
+ptotal =  58811238
+Assign10-01-test passed!
+
+(base) 2017mba@Priscillas-MacBook-Pro Python % python3 assign10_01_test2.py
+image_seam_carving_color: i0 = 0
+ptotal =  58712691
+Assign10-01-test2 passed!
